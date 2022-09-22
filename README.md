@@ -4,19 +4,19 @@
     <img src="assets/img/backgrounds/capa-mundo-invertido.png">
 </h1>
 
-# INDICE
+# :book: INDICE
 - [Sobre](#Sobre)
 - [Tecnologia utilizada no projeto frontend](#Tecnologia-utilizada-no-projeto-frontend)
 
 - [Tecnologia utilizada no projeto backend](#Tecnologia-utilizada-no-projeto-backend)
 
-# Sobre
+# :page_with_curl: Sobre
 O projeto foi criado baseado do filme Stranger Things "Mundo Invertido" na semana do desenvolvedor front-end pela (DIO) Digital Innovation One 
 
-## Tecnologia utilizada no projeto frontend
+## :computer: Tecnologia utilizada no projeto frontend
 - HTML
 - CSS
 - Javascript
 
-## Tecnologia utilizada no projeto backend
+## :computer: Tecnologia utilizada no projeto backend
 - Firebase
